@@ -384,8 +384,8 @@
 			isa = PBXGroup;
 			children = (
 				54328DDD27468FFC0012B410 /* ProductDetailsView.swift */,
-				54328DDE27468FFC0012B410 /* Cell */,
 				54328DE027468FFC0012B410 /* ProductDetailsViewController.swift */,
+				54328DDE27468FFC0012B410 /* Cell */,
 				54328DE127468FFC0012B410 /* AddPhoto */,
 			);
 			path = DetailsScreen;
